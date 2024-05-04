@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
     string st="change";
-    cout<<"version-->2"<<" "<<st<<nline;
+    cout<<"version-->"<<" "<<st<<nline;
 }
